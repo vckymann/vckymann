@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @vckymann
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning React.js along with Backend Technologies
+- 💞️ I’m looking to collaborate on ...
+- 📫 you can reach me on instagram @vckymaan 
+- ⚡ Fun fact: ...
