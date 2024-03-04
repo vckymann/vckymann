@@ -1,4 +1,5 @@
-<h2 align="left">Hi 🧏🏻‍♂️! My name is Vikas Singh Mann and I'm a Front-end Developer, from Canada.</h2>
+<h2 align="left">Hi ! My name is Vikas Singh Mann🧏🏻‍♂️</h2>
+<h3 align="left">I am a Front-end Developer from Canada.</h3>
 
 ###
 
